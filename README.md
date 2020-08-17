@@ -3,6 +3,10 @@ XBoard is a web-based online collaborative “whiteboard” that empowers a grou
 
 
 ![screenshot](public/FrontPage.png)
+![screenshot](public/web.png)
+![screenshot](public/drawing.png)
+![screenshot](public/text.png)
+![screenshot](public/video.png)
 
 ## Directory Structure
 Frontend code is located under `src` and `public` 
